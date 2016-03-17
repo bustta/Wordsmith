@@ -287,3 +287,8 @@ footer #socialshare_wordsmith a {
     width: 1280px;
   }
 }
+
+p code.hljs, li code.hljs {
+    display: inline;
+    padding: .2em;
+}
